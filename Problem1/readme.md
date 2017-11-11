@@ -1,5 +1,5 @@
 # Problem 1
-Hello there! Welcome to the first problem of this challenge! As a visitor you have to proof yourself to the CSST community to be promoted to member. This problem, and the 2 remaining ones, will serve as a way to gauge your knowledge and skill with GitHub, basic programming concepts, and communication.
+Hello there! Welcome to the first problem of this challenge! As a visitor you have to prove yourself to the CSST community to be promoted to member. This problem, and the 2 remaining ones, will serve as a way to gauge your knowledge and skill with GitHub, basic programming concepts, and communication.
 
 This challenge is going to be simple:
 
